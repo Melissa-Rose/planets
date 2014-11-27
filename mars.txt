@@ -1,5 +1,7 @@
 Cold and dry, but everything is my favourite colour
 The two moons are revolting me
 But it is eerily beautiful
+<<<<<<< HEAD
 
-New info added
+This was added to our home copy
+>>>>>>> e306a1603f55abec3b07ecdd5784d5c29a33421b
